@@ -7,4 +7,5 @@ If a player's hands both reach 0 then they lose.
 
 To play just run:
 javac *.java
+
 java Sticks
